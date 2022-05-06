@@ -1,4 +1,4 @@
-# File_Sorter
+# Node.js File_Sorter
 
 A Simple NodeJs Script to sort files in a Directory.
 
