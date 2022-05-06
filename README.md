@@ -3,7 +3,7 @@
 A Simple NodeJs Script to sort files in a Directory.
 
 
-it is important that you have [Node.js Download](https://nodejs.org/en/) installed on your computer so that you can use the script.
+it is important that you have [Node.js](https://nodejs.org/en/) installed on your computer so that you can use the script.
 [Node.js Download](https://nodejs.org/en/)
 
 ## How To Run The Script
